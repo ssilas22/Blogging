@@ -24,4 +24,10 @@ export const list = [
  disable : false,
  ref : "/security"
 },
+  {
+  id : "10", 
+  title : "Devops",
+ disable : false,
+ ref : "/devops"
+},
 ]
